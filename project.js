@@ -37,6 +37,6 @@ const getNumberOfLines = () => {
 };
 
 
-let balance = deposit();
+let Balance = deposit();
 const NumberOfLines = getNumberOfLines();
 
